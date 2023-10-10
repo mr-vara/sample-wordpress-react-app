@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;IACI;QACI,gBAAgB;QAChB,iBAAiB;QACjB,kBAAkB;IACtB;AACJ","sources":["webpack://tasks/./src/style/main.css"],"sourcesContent":["#tasks {\n    .app-title {\n        font-size: 1.5em;\n        font-weight: bold;\n        margin-bottom: 1em;\n    }\n}\n"],"names":[],"sourceRoot":""}

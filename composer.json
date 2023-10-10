@@ -1,0 +1,17 @@
+{
+    "name": "varaprasad.maruboina/tasks",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "VaraprasadMaruboina\\Tasks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vara",
+            "email": "varaprasadmaruboina@gmail.com"
+        }
+    ],
+    "require": {}
+}
